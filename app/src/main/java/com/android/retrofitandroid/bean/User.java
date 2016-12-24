@@ -3,6 +3,9 @@ package com.android.retrofitandroid.bean;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+/**
+ * 用户类  mvvm模式中的model
+ */
 public class User {
 
     @Expose
